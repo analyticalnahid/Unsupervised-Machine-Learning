@@ -1,5 +1,5 @@
 # Unsupervised-Machine-Learning
-Most popular unsupervised Machine Learning algorithms from scratch with implementation using Scikit-learn and others library 
+Most popular unsupervised Machine Learning algorithms from scratch with implementation using Scikit-learn and others library.
 
 
 ## 1. Clustering 
